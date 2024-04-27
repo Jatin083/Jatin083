@@ -26,8 +26,8 @@
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/Jatin083/count.svg"/>
-
+  <img src="https://profile-counter.glitch.me/Jatin083/count.svg"/> </br></br>
+📊 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂 <b>:</b>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin083&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
