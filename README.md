@@ -1,4 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQFgASRK7j1ggg/profile-displaybackgroundimage-shrink_350_1400/0/1714059879458?e=1719446400&v=beta&t=RfOW9fbuUIUB1DuR0xFSMq_GIk2vxY1T-FhMBBW0ln4)
+
+
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
         <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
@@ -121,6 +123,9 @@
   🎮 Video Games
   🎧 Listening to Music
 </details>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jatin083&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
